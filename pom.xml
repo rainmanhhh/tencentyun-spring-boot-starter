@@ -5,7 +5,6 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.rainmanhhh</groupId>
   <artifactId>tencentyun-spring-boot-starter</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
@@ -27,4 +26,10 @@
     </dependency>
   </dependencies>
 
+  <repositories>
+    <repository>
+      <id>jitpack</id>
+      <url>https://jitpack.io</url>
+    </repository>
+  </repositories>
 </project>
